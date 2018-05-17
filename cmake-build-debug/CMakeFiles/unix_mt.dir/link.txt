@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/unix_mt.dir/main.cpp.o  -o unix_mt 

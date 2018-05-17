@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrii/CLionProjects/unix_mt/main.cpp
+iostream
+-
+random
+-
+vector
+-
+thread
+-
+random
+-
+condition_variable
+-
+queue
+-
+algorithm
+-
+

@@ -1,0 +1,3 @@
+/home/andrii/CLionProjects/unix_mt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrii/CLionProjects/unix_mt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrii/CLionProjects/unix_mt/cmake-build-debug/CMakeFiles/unix_mt.dir
